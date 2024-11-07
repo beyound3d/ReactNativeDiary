@@ -35,4 +35,9 @@ npm run reset-project
 - ES7 React/Redux/GraphQL/React-Native snippets
 - React-Native/React/Redux snippets for es6/es7
 
+**splash screen**
+- libarary
+- figma direct page setup se hotta h
+- code se bhi hotta h
+
 # Api
