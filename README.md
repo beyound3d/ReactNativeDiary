@@ -16,6 +16,11 @@ npx expo start
 npx expo start -c
 ```
 
+**reset**
+```
+npm run reset-project
+```
+
 **Q:differnce between npm and npx**
 
 
