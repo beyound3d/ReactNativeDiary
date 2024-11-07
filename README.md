@@ -16,6 +16,10 @@ npx expo start
 npx expo start -c
 ```
 
+```
+ npm run start
+```
+
 **reset**
 ```
 npm run reset-project
