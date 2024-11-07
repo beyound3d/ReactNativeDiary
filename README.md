@@ -7,8 +7,13 @@
 npx create-expo-app@latest
 ```
 
+**run**
+
 ```
 npx expo start
+```
+```
+npx expo start -c
 ```
 
 **Q:differnce between npm and npx**
