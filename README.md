@@ -34,6 +34,9 @@ npm run reset-project
 **Vs code extnesions**
 - ES7 React/Redux/GraphQL/React-Native snippets
 - React-Native/React/Redux snippets for es6/es7
+- React Native Elements Snippets
+- ES7+ React/Redux/React-Native snippets
+
 
 **splash screen**
 - libarary
