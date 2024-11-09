@@ -45,7 +45,7 @@ npm run reset-project
 
 **fonts**
 - by plugins expo
-- direct trying-custom font
+- direct trying-custom font-ho gyi ass tesi
 
 **module export**
 - common.js
