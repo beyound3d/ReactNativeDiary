@@ -45,7 +45,7 @@ npm run reset-project
 
 **fonts**
 - by plugins expo
-- direct trying
+- direct trying-custom font
 
 # Api
 
