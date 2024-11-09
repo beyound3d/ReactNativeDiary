@@ -44,3 +44,15 @@ npm run reset-project
 - code se bhi hotta h
 
 # Api
+
+
+# Css Properties
+
+``` flex: 1,
+justifyContent: "center",
+```
+
+```
+  alignItems: "center",
+```
+
