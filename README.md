@@ -47,6 +47,20 @@ npm run reset-project
 - by plugins expo
 - direct trying-custom font
 
+**module export**
+- common.js
+- ES Modules
+    |         Common.js                      |             Es Modules                         |
+    | ------------------------               | ---------------------------------------------- |
+    |  // Exporting in ES Modules            |    // Exporting in CommonJS                    |
+    |     export function greet() {          |     module.exports.greet = function() {        |
+    |    console.log('Hello, world!');       |        console.log('Hello, world!');           |
+    |    }                                   |              };                                |
+
+    |   // Importing in ES Modules           |    // Importing in CommonJS                    |
+    |  import { greet } from './greet.js';   |      const { greet } = require('./greet');     |
+    |     greet();                           |       greet();                                 |
+ 
 # Api
 
 
@@ -59,4 +73,5 @@ justifyContent: "center",
 ```
   alignItems: "center",
 ```
+
 
