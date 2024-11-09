@@ -43,6 +43,10 @@ npm run reset-project
 - figma direct page setup se hotta h
 - code se bhi hotta h
 
+**fonts**
+- by plugins expo
+- direct trying
+
 # Api
 
 
