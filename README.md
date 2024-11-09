@@ -56,7 +56,7 @@ npm run reset-project
     |     export function greet() {          |     module.exports.greet = function() {        |
     |    console.log('Hello, world!');       |        console.log('Hello, world!');           |
     |    }                                   |              };                                |
-
+    |                                        |                                                |
     |   // Importing in ES Modules           |    // Importing in CommonJS                    |
     |  import { greet } from './greet.js';   |      const { greet } = require('./greet');     |
     |     greet();                           |       greet();                                 |
