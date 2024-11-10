@@ -46,6 +46,14 @@ npm run reset-project
 **fonts**
 - by plugins expo
 - direct trying-custom font-ho gyi ass tesi
+  
+```
+ npx react-native-asset
+```
+
+```
+npm i react-native-asset
+```
 
 **module export**
 - common.js
