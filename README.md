@@ -82,4 +82,23 @@ justifyContent: "center",
   alignItems: "center",
 ```
 
+# PowerShell
+
+**execution policy**
+1. Open PowerShell as Administrator.
+Set the execution policy:
+```
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+```
+
+2. Run your Expo command:
+
+```
+expo r -c
+```
+
+3. Optionally, revert the execution policy:
+```
+Set-ExecutionPolicy Restricted -Scope CurrentUser
+```
 
