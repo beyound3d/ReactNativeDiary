@@ -55,6 +55,9 @@ npm run reset-project
 npm i react-native-asset
 ```
 
+# how to set splash screen app icon and logo in react native
+working on it in vs code
+
 **module export**
 - common.js
 - ES Modules
