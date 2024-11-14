@@ -1,6 +1,6 @@
 # ReactNativeDiary
 - https://reactnative.dev/docs/environment-setup
-
+- check compatiblity and stability of versions
 
 # Setup
 ```
@@ -95,6 +95,15 @@ Remove-Item -Recurse -Force node_modules
 
 # javascript terminal
 
+CMD: rmdir /s /q node_modules
+PowerShell: Remove-Item -Recurse -Force node_modules
+Git Bash/WSL: rm -rf node_modules
+
+
+CMD: del package-lock.json
+PowerShell: Remove-Item package-lock.json
+Git Bash/WSL: rm -f package-lock.json
+
 **execution policy**
 1. Open PowerShell as Administrator.
 Set the execution policy:
@@ -121,7 +130,7 @@ Set-ExecutionPolicy Restricted -Scope CurrentUser
 # points to ponder 
 - if we want to clean cache we have to  use --force Recommended protections disabled.
 - Use --force only when necessary: It's often better to try resolving dependency issues manually rather than forcing the installation.
-  Try --legacy-peer-deps: For peer dependency conflicts, this is usually a safer option.
+  Try --legacy-peer-deps: For peer dependency conflicts, this is usually a safer option.- rmeove packages
 -    
 
 # Problems with depreaction
@@ -132,4 +141,13 @@ newer versions of expo-router have been released that are compatible with Expo 5
 ```
 npm show expo-router
 ```
+- expo cli
+
+# Don't know what it is 
+- legacy global expo-cli
+- Check package.json for the versions of the following:
+expo
+@expo/cli
+metro
+- 
 
