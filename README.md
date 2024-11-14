@@ -115,11 +115,14 @@ Set-ExecutionPolicy Restricted -Scope CurrentUser
 
 # Miscellaneous words
 - including breaking changes
-- overriding peer dependency
+- overriding peer dependency/conflicts
 -  high severity vulnerabilities
 
 # points to ponder 
--- if we want to clean cache we have to  use --force Recommended protections disabled.
+- if we want to clean cache we have to  use --force Recommended protections disabled.
+- Use --force only when necessary: It's often better to try resolving dependency issues manually rather than forcing the installation.
+  Try --legacy-peer-deps: For peer dependency conflicts, this is usually a safer option.
+-    
 
 # Problems with depreaction
 - expo@52.0.6
