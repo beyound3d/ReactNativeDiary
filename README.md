@@ -146,8 +146,8 @@ npm show expo-router
 # Don't know what it is 
 - legacy global expo-cli
 - Check package.json for the versions of the following:
-expo
-@expo/cli
-metro
+1. expo
+2. @expo/cli---> local/global
+3. metro
 - 
 
