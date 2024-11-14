@@ -3,6 +3,29 @@
 - check compatiblity and stability of versions
 
 # Setup
+- Setup for development in mac for 
+1. mobile dev
+2. web
+- Setup for windows
+1. mobile dev
+   **how ??❓🤔**
+     - method 1 
+       1. vs code
+       2. expo
+       **Subdivision**
+           1. vs code
+           2. Enumerator  
+      - method 2
+       1. android
+       2. expo
+     
+3. web
+- set up for linux
+1. app
+2. web
+- 
+
+
 ```
 npx create-expo-app@latest
 ```
