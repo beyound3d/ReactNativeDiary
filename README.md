@@ -86,6 +86,14 @@ justifyContent: "center",
 ```
 
 # PowerShell
+```
+Remove-Item -Recurse -Force node_modules
+```
+# cmd
+
+# git bash
+
+# javascript terminal
 
 **execution policy**
 1. Open PowerShell as Administrator.
@@ -103,5 +111,22 @@ expo r -c
 3. Optionally, revert the execution policy:
 ```
 Set-ExecutionPolicy Restricted -Scope CurrentUser
+```
+
+# Miscellaneous words
+- including breaking changes
+- overriding peer dependency
+-  high severity vulnerabilities
+
+# points to ponder 
+-- if we want to clean cache we have to  use --force Recommended protections disabled.
+
+# Problems with depreaction
+- expo@52.0.6
+- install and delete node modules in different terminal
+- Check for Updates in expo-router or Expo
+newer versions of expo-router have been released that are compatible with Expo 52. Sometimes, dependency conflicts arise from older package versions, and package maintainers often release updates that fix these issues.
+```
+npm show expo-router
 ```
 
