@@ -172,5 +172,9 @@ npm show expo-router
 1. expo
 2. @expo/cli---> local/global
 3. metro
+
 - 
+
+# Come to know 
+- Adjust Babel Configuration (For Non-Expo Projects)
 
