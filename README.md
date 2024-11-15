@@ -2,6 +2,11 @@
 - https://reactnative.dev/docs/environment-setup
 - check compatiblity and stability of versions
 
+# new technology shift
+- learn setup
+- learn api
+- learn network call
+
 # Setup
 - Setup for development in mac for 
 1. mobile dev
