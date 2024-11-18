@@ -159,7 +159,9 @@ Set-ExecutionPolicy Restricted -Scope CurrentUser
 - if we want to clean cache we have to  use --force Recommended protections disabled.
 - Use --force only when necessary: It's often better to try resolving dependency issues manually rather than forcing the installation.
   Try --legacy-peer-deps: For peer dependency conflicts, this is usually a safer option.- rmeove packages
--    
+-  (NOBRIDGE) LOG  Bridgeless mode is enabled
+ INFO 
+ 💡 JavaScript logs will be removed from Metro in React Native 0.77! Please use React Native DevTools as your default tool. Tip: Type j in the terminal to open (requires Google Chrome or Microsoft Edge).
 
 # Problems with depreaction
 - expo@52.0.6
