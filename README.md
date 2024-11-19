@@ -12,7 +12,15 @@
 1. mobile dev
 2. web
 - Setup for windows
-1. mobile dev
+
+  1. Install choco, node, and JDK
+  2. Install Andriod studio
+  3. Downloads SDK and emulator
+  4. Add environment variables
+  5. Create RN App
+  6. Run app
+
+     - mobile dev
    **how ??❓🤔**
      - method 1 
        1. vs code
