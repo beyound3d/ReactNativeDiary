@@ -19,11 +19,13 @@
   4. Add environment variables
   5. Create RN App
   6. Run app
+ 
+## Setup Prompt
+- ```
+  react native setup steps in window
+  ```
 
-
-
-
-     - mobile dev
+ - mobile dev
    **how ??❓🤔**
      - method 1 
        1. vs code
