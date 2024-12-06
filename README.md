@@ -7,6 +7,9 @@
 - learn api
 - learn network call
 
+# Basic method 
+- how to rename a project
+
 # Setup
 - Setup for development in mac for 
 1. mobile dev
